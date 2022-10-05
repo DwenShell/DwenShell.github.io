@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise" 
 
 # Site Settings
-locale                   : "fr-FR"
+locale                   : "en-US"
 title                    : "Clara Giraud"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
@@ -110,9 +110,9 @@ author:
   location         : "Laval, France"
   email            : "contact.claragiraud@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:contact.claragiraud@gmail.com"
+    #- label: "Email"
+    #  icon: "fas fa-fw fa-envelope-square"
+    #  url: "mailto:contact.claragiraud@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://DwenShell.github.io"
