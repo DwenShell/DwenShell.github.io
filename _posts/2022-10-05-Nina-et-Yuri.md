@@ -12,6 +12,6 @@ toc_laval: "Table of content"
 I hope you like it!
 
 # This is a second test
-### And a third test
+## And a third test
 
 Bla bla bla j'aime le jambon
