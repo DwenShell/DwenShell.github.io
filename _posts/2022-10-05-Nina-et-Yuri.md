@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Nina & Yuri"
 toc: true
 toc_laval: "Table of content"
@@ -50,4 +50,3 @@ Voici un exemple du fonctionnement des changements de frames dans le jeu :
 
 Et la traduction au niveau des blueprints :
 ![ScreeBP](https://user-images.githubusercontent.com/114059469/193783831-9f377285-856c-48c7-805f-4895b39295fd.png)
-
