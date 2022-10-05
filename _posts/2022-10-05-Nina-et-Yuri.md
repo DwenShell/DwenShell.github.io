@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Nina & Yuri"
+toc: true
 ---
 
 # Welcome
