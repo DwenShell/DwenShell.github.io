@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\assets",
+    "\\assets\\images",
+    "\\_data"
   ],
-  "SelectedNode": "\\minimal-mistakes-jekyll.gemspec",
+  "SelectedNode": "\\_sass",
   "PreviewInSolutionExplorer": false
 }
