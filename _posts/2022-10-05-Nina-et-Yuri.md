@@ -51,3 +51,19 @@ Voici un exemple du fonctionnement des changements de frames dans le jeu :
 
 Et la traduction au niveau des blueprints :
 ![ScreeBP](https://user-images.githubusercontent.com/114059469/193783831-9f377285-856c-48c7-805f-4895b39295fd.png)
+
+# Avancée future du projet
+## Evolution visuel
+
+Je vais rester succinte sur cette partie, l'une des première évolution qui devrais arriver pour Nina & Yuri est l'arrivée d'une maj visuel. L'idée bien entendu serait de conservé la DA mais tout en faisant évoluer le niveau de polish et le travail sur les textures; l'application d'une trimsheet est par ailleurs en réflexion afin d'allèger le demande en matière de performance. La pertinence également d'une utilisation de displacement map pour passer les props dans des version low poly est également en reflexion par plusieurs membres de l'équipe. 
+
+## Evolution mécanique
+
+Sur ce plan, c'est avant tout une mise à jour du moteur qui est prévue, passant le projet de UE4 vers UE5 afin de profiter de certaines nouveauté offert par nanite. Un retravail complet de la programmation des différents élément est aussi en reflexion afin de préparer les futurs évolutions du jeu qui ne sont pas encore pleinement envisageable à la vue de l'état actuel du projet (PreAlpha V1.3).
+
+***
+
+Vous pouvez suivre les actualités du projet ici : https://twitter.com/NinaYuriTheGame
+
+La démo est également disponible par là : https://tom-gatineau.itch.io/nina-et-yuri 
+![Nina-yurt-logo](https://user-images.githubusercontent.com/114059469/193817889-a0feb3ca-9cdd-4fac-8fdd-f7866550b63f.png)
