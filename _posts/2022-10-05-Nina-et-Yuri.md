@@ -6,9 +6,6 @@ toc_label: "Table of content"
 toc_sticky : true
 
 ---
-header.image:
-  teaser : /assets/images/banner_test.png
-
 
 ![Pres Nina Yuri Portefolio](https://user-images.githubusercontent.com/114059469/191930265-32b12a1c-e7ff-4f4b-8aab-13ac1c99aadc.png)
 
