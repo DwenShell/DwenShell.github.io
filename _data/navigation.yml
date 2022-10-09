@@ -2,10 +2,10 @@
 main:
   - #title: "Quick-Start Guide"
     #url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "About"
+  - title: "View on Github"
     url: https://github.com/DwenShell
-  - #title: "Sample Posts"
-    #url: /year-archive/
+  - title: "About"
+    url: /about/
   - #title: "Sample Collections"
     #url: /collection-archive/
   - #title: "Sitemap"
