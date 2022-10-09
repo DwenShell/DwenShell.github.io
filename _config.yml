@@ -299,5 +299,5 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: single
+      layout: test
       author_profile: true
