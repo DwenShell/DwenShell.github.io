@@ -4,8 +4,9 @@
     "\\assets",
     "\\assets\\images",
     "\\_data",
+    "\\_pages",
     "\\_posts"
   ],
-  "SelectedNode": "\\_config.yml",
+  "SelectedNode": "\\_pages\\about.md",
   "PreviewInSolutionExplorer": false
 }
