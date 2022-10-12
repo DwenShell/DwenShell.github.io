@@ -1,5 +1,5 @@
 ---
-layout : test
+layout : single
 permalink : /about/
 ---
 
