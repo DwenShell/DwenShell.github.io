@@ -12,22 +12,22 @@ toc_sticky : true
 
 # Une courte présentation
 
-Bienvenue sur le Wiki de Nina & Yuri.
+Bienvenue sur le Wiki de Nina&Yuri.
 
-Ce projet à été réaliser dans le cadre de la Emotional Game Jam de 2022. Tout le code de la version actuelle (21/09/22) proviens donc de cette version. Il as été réaliser sur la version 4.27 du moteur Unreal Engine. 
+Ce projet a été réalisé dans le cadre de la Emotional Game Jam de 2022. Tout le code de la version actuelle (21/09/22) proviens donc de cette version. Il a été réalisé sur la version 4.27 du moteur Unreal Engine.
 
-Le principe de fonctionnement du jeu est le switch entre 2 mode d'affichage, un mode 2D et un mode 3D accompagné d'une modification des hitbox et des rendu de caméra (perspective vers isométrique).
+Le principe de fonctionnement du jeu est le switch entre deux mode d'affichage, un mode 2D et un mode 3D accompagné d'une modification des hitbox et des rendu de caméra (perspective vers isométrique).
 
-Le développement du jeu se fait en blueprint sans intégration de code C pour le moment. 
+Le développement du jeu se fait en blueprint sans intégration de code C pour le moment.
 
-EDIT du 29/09/22 : Le projet à reçus le tremplin du concours de la Gamecup et vas donc être poursuivis dans une version complète du jeu. Par conséquent, tout blueprint visible dans ce wiki seront issus de la version Pre-Alpha V1.3 Name : Finale Game Jam
+EDIT du 29/09/22 : le projet a reçus le tremplin du concours de la Gamecup et va donc être poursuivis dans une version complète du jeu. Par conséquent, tout blueprint visible dans ce wiki seront issus de la version Pre-Alpha V1.3 Name : Finale Game Jam
 
 
 ***
 # Mécanique de base
 ## Changement de caméra
 
-Pour introduire le travail sur le projet, la première problématique c'est posé sur le changement de caméra entre les 2 modes d'affichage. 
+Pour introduire le travail sur le projet, la première problématique c'est posé sur le changement de caméra entre les deux modes d'affichage. 
 Ex ci-dessous :
 
 En 2D
