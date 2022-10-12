@@ -20,7 +20,7 @@ Le principe de fonctionnement du jeu est le switch entre deux mode d'affichage, 
 
 Le développement du jeu se fait en blueprint sans intégration de code C pour le moment.
 
-EDIT du 29/09/22 : le projet a reçus le tremplin du concours de la Gamecup et va donc être poursuivis dans une version complète du jeu. Par conséquent, tout blueprint visible dans ce wiki seront issus de la version Pre-Alpha V1.3 Name : Finale Game Jam
+EDIT du 29/09/22 : le projet a reçus le tremplin du concours de la Gamecup et va donc être poursuivis dans une version complète du jeu. Par conséquent, tous blueprint visible dans ce wiki seront issus de la version Pre-Alpha V1.3 Name : Finale Game Jam
 
 
 ***
