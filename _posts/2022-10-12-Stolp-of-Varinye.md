@@ -21,5 +21,6 @@ Pour expliquer plus clairement, l'objectif du jeu était de proposer un jeu d'é
 
 # Travail de programmation
 
-Ce projet fut pour moi un nouveau défis, en parti par l'utilisation de Shader ainsi que des scriptables objects.
+Ce projet fut pour moi un apprentisage de nouvelle techno, en parti l'utilisation de Shader ainsi que des scriptables objects. 
+
 
