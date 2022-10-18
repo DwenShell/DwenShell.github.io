@@ -3,6 +3,7 @@ layout: single
 title:  "Stolp of Varinye"
 toc: true
 toc_label: "Table of content"
+toc_icon: "cogs"
 toc_sticky : true
 
 ---
