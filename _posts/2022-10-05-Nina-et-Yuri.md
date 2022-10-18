@@ -1,16 +1,17 @@
 ---
 layout: single
-title:  "Nina & Yuri"
-toc: true
-toc_label: "Table of content"
-toc_icon: "cogs"
-toc_sticky : true
 header:
   overlay_image: /assets/images/banner_test.png
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
     - label: "More Info"
       url: "https://unsplash.com"
+title:  "Nina & Yuri"
+toc: true
+toc_label: "Table of content"
+toc_icon: "cogs"
+toc_sticky : true
+
 ---
 # Un plateformer né en Game Jam
 
