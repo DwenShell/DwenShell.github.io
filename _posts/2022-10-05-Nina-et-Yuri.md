@@ -2,10 +2,10 @@
 layout: single
 header:
   overlay_image: /assets/images/banner_test.png
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  caption: "Photo credit: [**Echinops**](https://twitter.com/Echinopspsps)"
   actions:
     - label: "More Info"
-      url: "https://unsplash.com"
+      url: "https://tom-gatineau.itch.io/nina-et-yuri "
 title:  "Nina & Yuri"
 toc: true
 toc_label: "Table of content"
