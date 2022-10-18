@@ -1,6 +1,7 @@
 ---
 layout: single
 header:
+  teaser : /assets/images/banner_test.png
   overlay_image: /assets/images/banner_test.png
   caption: "Photo credit: [**Echinops**](https://twitter.com/Echinopspsps)"
   actions:
