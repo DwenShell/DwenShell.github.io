@@ -8,7 +8,7 @@ toc_sticky : true
 
 ---
 
-# Commençons pas une présentation
+# Commençons par une présentation
 
 Qu'est-ce que Stolp of Varinye ? 
 
