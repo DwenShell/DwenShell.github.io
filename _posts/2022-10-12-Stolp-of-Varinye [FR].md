@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Stolp of Varinye"
+title:  "Stolp of Varinye [FR]"
 toc: true
 toc_label: "Table of content"
 toc_icon: "cogs"

@@ -7,7 +7,7 @@ header:
   actions:
     - label: "More Info"
       url: "https://tom-gatineau.itch.io/nina-et-yuri "
-title:  "Nina & Yuri"
+title:  "Nina & Yuri [FR]"
 toc: true
 toc_label: "Table of content"
 toc_icon: "cogs"
