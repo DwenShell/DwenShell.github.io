@@ -16,7 +16,7 @@ toc_sticky : true
 ---
 # A platformer born in Game Jam
 
-![Pres Nina Yuri Portefolio](https://user-images.githubusercontent.com/114059469/191930265-32b12a1c-e7ff-4f4b-8aab-13ac1c99aadc.png)
+![NYPresEN](/assets/images/NYPresEN.png)
 
 
 # A short presentation
