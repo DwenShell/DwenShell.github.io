@@ -4,9 +4,13 @@
     "\\assets",
     "\\assets\\images",
     "\\_data",
+    "\\_layouts",
     "\\_pages",
     "\\_posts"
   ],
+<<<<<<< Updated upstream
   "SelectedNode": "\\_data\\navigation.yml",
+=======
+>>>>>>> Stashed changes
   "PreviewInSolutionExplorer": false
 }
