@@ -14,7 +14,7 @@ feature_row:
     alt: "Nina & Yuri"
     title: "Nina & Yuri"
     excerpt: "My actual biggest projet, a little indie game made with my society Tiny Studio"
-    url: "/2022-10-05-Nina-et-Yuri[EN].md/"
+    url: "https://dwenshell.github.io/Nina-et-Yuri-EN/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/banner_test.png
