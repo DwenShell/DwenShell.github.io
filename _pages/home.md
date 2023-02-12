@@ -3,7 +3,7 @@ layout: splash
 permalink: /home/
 hidden: true
 header:
-  overlay_image: /assets/images/banniere.png
+  overlay_image: /assets/images/Banniere.png
   actions:
     - label: "<i class='fab fa-fw fa-github'></i> Go on Github"
       url: "https://github.com/DwenShell"
