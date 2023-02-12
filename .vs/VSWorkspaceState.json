@@ -4,10 +4,12 @@
     "\\assets",
     "\\assets\\images",
     "\\_data",
+    "\\_includes",
+    "\\_includes\\head",
     "\\_layouts",
     "\\_pages",
     "\\_posts"
   ],
-  "SelectedNode": "\\_posts\\2022-10-05-Nina-et-Yuri [EN].md",
+  "SelectedNode": "\\index.html",
   "PreviewInSolutionExplorer": false
 }
