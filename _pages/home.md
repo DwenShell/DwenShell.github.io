@@ -5,7 +5,7 @@ hidden: true
 header:
   overlay_image: /assets/images/banniere.png
   actions:
-    - label: "<i class='fas fa-download'></i> Go on Github"
+    - label: "<i class='fab fa-fw fa-github'></i> Go on Github"
       url: "https://github.com/DwenShell"
 excerpt: >
   My personal sites and portfolio. I also post some articles
