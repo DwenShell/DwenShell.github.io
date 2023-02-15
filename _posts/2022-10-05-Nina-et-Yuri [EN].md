@@ -23,7 +23,7 @@ toc_sticky : true
 
 Welcome to the Nina&Yuri Wiki.
 
-This project was made as part of the Emotional Game Jam 2022. All code for the current version (09/21/22) therefore comes from this version. It was made on version 4.27 of the Unreal Engine.
+This project was made as part of the Emotional Game Jam 2022. Hasn't been updated. It was made on version 4.27 of the Unreal Engine.
 
 The operating principle of the game is the switch between two display modes, a 2D mode and a 3D mode accompanied by a modification of hitboxes and camera renderings (perspective to isometric).
 
@@ -36,7 +36,7 @@ EDIT of 09/29/22: the project received the springboard from the Gamecup competit
 # Basic mechanics
 ## Change camera
 
-To introduce the work on the project, the first problem is to ask about the change of camera between the two display modes.
+To introduce the work on the project, the first problem I encountered was the change of camera between the two display modes.
 Example below:
 
 In 2D
@@ -44,11 +44,11 @@ In 2D
 In 3D
 ![ny_3D](https://user-images.githubusercontent.com/114059469/191619643-f8f51dac-5199-43ea-98ce-a3b8efb9b7b0.png)
 
-To do this, the program carried out when there is a rotation if the player enters an angle of 10° corresponding to a viewing angle in 2 dimensions. When this condition is true, a change of camera between the one attached to the player and the fixed one in orthographic view is operated.
+To do this, the rotation happens if the enters an angle of 10° corresponding to a viewing angle in 2 dimensions. A change of camera between the one attached to the player and the fixed one in orthographic view is operated.
 
 ## Hitbox change
 
-When the "Character in 2D" condition is true, a change on the hitboxes of the different platforms is activated, these see the Box Extent value increased drastically in order to allow the character to move on it even if the platform in question is n you're not on the same plane as the player.
+When the "Character in 2D" condition is true, a change on the hitboxes of the different platforms is activated, these see the Box Extent value increased drastically in order to allow the character to move on it even if the platform in question is not on the same plane as the player.
 
 # Player animation
 
@@ -65,7 +65,7 @@ And the translation at the level of the plans:
 # Future progress of the project
 ## Visual evolution
 
-I'll keep this part brief, one of the first changes that should happen for Nina & Yuri is the arrival of a visual update. The idea, of course, would be to keep the DA while having the level of polish assessed and the work on the textures; the application of a trim is also under consideration in order to alleviate the demand in terms of performance. The relevance of using the movement card to pass the accessories in the low poly version is also being considered by several members of the team.
+I'll keep this part brief, one of the first changes that should happen for Nina & Yuri is the arrival of a visual update. The idea, of course, would be to keep the AD while polishing the level and working on the textures; the application of a Trimsheet is also under consideration in order to alleviate the demand in terms of performance. The relevance of using the movement card to pass the accessories in the low poly version is also being considered by several members of the team.
 
 ## Mechanical Evolution
 
