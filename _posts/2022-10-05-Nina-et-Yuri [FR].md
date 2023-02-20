@@ -14,6 +14,10 @@ toc_icon: "cogs"
 toc_sticky : true
 
 ---
+
+Vous souhaitez voir cet article en anglais ? Cliquez ici : [English version](https://dwenshell.github.io/Nina-et-Yuri-EN/){: .btn .btn--info} 
+{: .notice}
+
 # Un plateformer né en Game Jam
 
 ![Pres Nina Yuri Portefolio](https://user-images.githubusercontent.com/114059469/191930265-32b12a1c-e7ff-4f4b-8aab-13ac1c99aadc.png)

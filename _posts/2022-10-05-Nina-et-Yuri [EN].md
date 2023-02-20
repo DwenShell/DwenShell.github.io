@@ -14,15 +14,16 @@ toc_icon: "cogs"
 toc_sticky : true
 
 ---
+
+Want to see this article in french ? Go here : [French version](https://dwenshell.github.io/Nina-et-Yuri-FR/){: .btn .btn--info} 
+{: .notice}
+
 # A platformer born in Game Jam
 
 ![NYPresEN](/assets/images/NYPresEN.png)
 
 
 # A short presentation
-
-Want to see this article in french ? Go here : [French version](https://dwenshell.github.io/Nina-et-Yuri-FR/){: .btn .btn--info} 
-{: .notice}
 
 Welcome to the Nina&Yuri Wiki.
 
