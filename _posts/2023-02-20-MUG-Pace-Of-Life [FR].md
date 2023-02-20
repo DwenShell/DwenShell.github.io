@@ -10,6 +10,6 @@ toc_sticky : true
 
 ---
 
-#Présentation générale
+# Présentation générale
 
 La démo est disponible par là : [itch.io](https://dwenshell.itch.io/cup-pace-of-life){: .btn .btn--info} 
