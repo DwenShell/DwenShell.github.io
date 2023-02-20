@@ -50,7 +50,7 @@ EDIT du 29/09/22 : le projet a reçu le tremplin du concours de la Gamecup et va
 Pour introduire le travail sur le projet, la première problématique s'est posée sur le changement de caméra entre les deux modes d'affichages. 
 Ex ci-dessous :
 
-{% include gallery layout="half" caption="Quelques visuel ingame" %}
+{% include gallery layout="half" caption="Quelques visuels ingame" %}
 
 Pour ce faire, le programme vérifie lorsqu'il y a une rotation si le player rentre dans un angle de 10° correspondant à un angle de vue en 2 dimensions. Lorsque cette condition est vraie, un changement de caméra entre celle attachée au player et celle fixe en vue orthographique est opérée. 
 
@@ -81,7 +81,7 @@ Sur ce plan, c'est avant tout une mise à jour du moteur qui est prévue, passan
 
 ***
 
-Vous pouvez suivre les actualités du projet ici : https://twitter.com/NinaYuriTheGame
+Vous pouvez suivre les actualités du projet ici : [Twitter](https://twitter.com/NinaYuriTheGame){: .btn .btn--info}
 
-La démo est également disponible par là : https://tom-gatineau.itch.io/nina-et-yuri 
+La démo est également disponible par là : [itch.io](https://tom-gatineau.itch.io/nina-et-yuri){: .btn .btn--info} 
 ![Nina-yurt-logo](https://user-images.githubusercontent.com/114059469/193817889-a0feb3ca-9cdd-4fac-8fdd-f7866550b63f.png)

@@ -12,6 +12,15 @@ toc: true
 toc_label: "Table of content"
 toc_icon: "cogs"
 toc_sticky : true
+gallery:
+  - url: https://user-images.githubusercontent.com/114059469/191619607-fe846042-73ab-4073-b8f1-478cf66c0ede.png
+    image_path: https://user-images.githubusercontent.com/114059469/191619607-fe846042-73ab-4073-b8f1-478cf66c0ede.png
+    alt: "Visuel du jeu en 2D"
+    title: "Visuel du jeu en 2D"
+  - url: https://user-images.githubusercontent.com/114059469/191619643-f8f51dac-5199-43ea-98ce-a3b8efb9b7b0.png
+    image_path: https://user-images.githubusercontent.com/114059469/191619643-f8f51dac-5199-43ea-98ce-a3b8efb9b7b0.png
+    alt: "Visuel du jeu en 3D"
+    title: "Visuel du jeu en 3D"
 
 ---
 # A platformer born in Game Jam
@@ -41,10 +50,7 @@ EDIT of 09/29/22: the project received the springboard from the Gamecup competit
 To introduce the work on the project, the first problem I encountered was the change of camera between the two display modes.
 Example below:
 
-In 2D
-![ny_2D](https://user-images.githubusercontent.com/114059469/191619607-fe846042-73ab-4073-b8f1-478cf66c0ede.png)
-In 3D
-![ny_3D](https://user-images.githubusercontent.com/114059469/191619643-f8f51dac-5199-43ea-98ce-a3b8efb9b7b0.png)
+{% include gallery layout="half" caption="Quelques visuels ingame" %}
 
 To do this, the rotation happens if the enters an angle of 10° corresponding to a viewing angle in 2 dimensions. A change of camera between the one attached to the player and the fixed one in orthographic view is operated.
 
