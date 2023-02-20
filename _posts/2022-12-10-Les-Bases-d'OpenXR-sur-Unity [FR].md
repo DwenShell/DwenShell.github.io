@@ -1,5 +1,7 @@
 ---
 layout: single
+header:
+  teaser : /assets/images/banner_wip.png
 title:  "[WIP] Les Bases d'OpenXR avec Unity [FR]"
 toc: true
 toc_label: "Table of content"

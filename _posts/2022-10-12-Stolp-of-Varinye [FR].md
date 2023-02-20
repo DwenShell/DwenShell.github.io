@@ -1,5 +1,7 @@
 ---
 layout: single
+header:
+  teaser : /assets/images/banner_stolp.png
 title:  "Stolp of Varinye [FR]"
 toc: true
 toc_label: "Table of content"
