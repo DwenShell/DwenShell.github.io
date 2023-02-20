@@ -21,6 +21,9 @@ toc_sticky : true
 
 # A short presentation
 
+Want to see this article in french ? Go here : [French version](https://dwenshell.github.io/Nina-et-Yuri-FR/){: .btn .btn--info} 
+{: .notice}
+
 Welcome to the Nina&Yuri Wiki.
 
 This project was made as part of the Emotional Game Jam 2022. Hasn't been updated. It was made on version 4.27 of the Unreal Engine.
@@ -73,7 +76,7 @@ On this level, it is above all an update of the engine which is planned, passing
 
 ***
 
-You can follow the project news here: https://twitter.com/NinaYuriTheGame
+You can follow the project news here: [Twitter](https://twitter.com/NinaYuriTheGame){: .btn .btn--info}
 
-The demo is also available here: https://tom-gatineau.itch.io/nina-et-yuri 
+The demo is also available here: [itch.io](https://tom-gatineau.itch.io/nina-et-yuri){: .btn .btn--info}
 ![Nina-yurt-logo](https://user-images.githubusercontent.com/114059469/193817889-a0feb3ca-9cdd-4fac-8fdd-f7866550b63f.png)
