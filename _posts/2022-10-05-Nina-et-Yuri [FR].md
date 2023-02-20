@@ -12,6 +12,15 @@ toc: true
 toc_label: "Table of content"
 toc_icon: "cogs"
 toc_sticky : true
+gallery:
+  - url: https://user-images.githubusercontent.com/114059469/191619607-fe846042-73ab-4073-b8f1-478cf66c0ede.png
+    image_path: https://user-images.githubusercontent.com/114059469/191619607-fe846042-73ab-4073-b8f1-478cf66c0ede.png
+    alt: "Visuel du jeu en 2D"
+    title: "Visuel du jeu en 2D"
+  - url: https://user-images.githubusercontent.com/114059469/191619643-f8f51dac-5199-43ea-98ce-a3b8efb9b7b0.png
+    image_path: https://user-images.githubusercontent.com/114059469/191619643-f8f51dac-5199-43ea-98ce-a3b8efb9b7b0.png
+    alt: "Visuel du jeu en 3D"
+    title: "Visuel du jeu en 3D"
 
 ---
 # Un plateformer né en Game Jam
@@ -41,10 +50,7 @@ EDIT du 29/09/22 : le projet a reçu le tremplin du concours de la Gamecup et va
 Pour introduire le travail sur le projet, la première problématique s'est posée sur le changement de caméra entre les deux modes d'affichages. 
 Ex ci-dessous :
 
-En 2D
-![ny_2D](https://user-images.githubusercontent.com/114059469/191619607-fe846042-73ab-4073-b8f1-478cf66c0ede.png)
-En 3D
-![ny_3D](https://user-images.githubusercontent.com/114059469/191619643-f8f51dac-5199-43ea-98ce-a3b8efb9b7b0.png)
+{% include gallery layout="half" caption="Quelques visuel ingame" %}
 
 Pour ce faire, le programme vérifie lorsqu'il y a une rotation si le player rentre dans un angle de 10° correspondant à un angle de vue en 2 dimensions. Lorsque cette condition est vraie, un changement de caméra entre celle attachée au player et celle fixe en vue orthographique est opérée. 
 
