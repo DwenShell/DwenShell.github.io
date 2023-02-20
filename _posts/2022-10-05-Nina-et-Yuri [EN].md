@@ -5,7 +5,7 @@ header:
   overlay_image: /assets/images/banner_test.png
   caption: "Photo credit: [**Echinops**](https://twitter.com/Echinopspsps)"
   actions:
-    - label: "More Info"
+    - label: "itch.io"
       url: "https://tom-gatineau.itch.io/nina-et-yuri "
 title:  "Nina & Yuri [EN]"
 toc: true
