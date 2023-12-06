@@ -142,7 +142,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/DwenShell"
     - label: "Artstation"
-      icon : "fa-brands fa-artstation"
+      icon : "fab fa-fw fa-artstation"
       url: "https://www.artstation.com/dwenshell"
     - #label: "GitLab"
       #icon: "fab fa-fw fa-gitlab"
